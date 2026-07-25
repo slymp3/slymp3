@@ -7,13 +7,7 @@
 
 <div align="center">
 
-```
-▓▒░ booting slymp3.sys ░▒▓
-[ OK ] mounting /dev/brain
-[ OK ] loading neural weights
-[ OK ] establishing secure shell
-[ OK ] access granted — welcome
-```
+<img width="720" src="./assets/terminal-hero.svg" alt="terminal auth sequence"/>
 
 </div>
 
@@ -60,14 +54,6 @@ Theme:     cyberpunk-terminal [dark]
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=650&lines=root%40slymp3%3A~%24+whoami;Jake+%E2%80%94+user%3Aslymp3;Machine+Learning+%2F+Software+Engineer;Building+AI+agents+%2B+real+products;root%40slymp3%3A~%24+_" alt="typing terminal"/>
-</a>
-
-</div>
 
 <br/>
 
@@ -171,8 +157,7 @@ root@slymp3:~$ cat interests.txt
 ## `$ cat credentials.log`
 
 ```
-🔴 🟡 🟢  slymp3@root: ~/credentials
-──────────────────────────────────────
+root@slymp3:~$ cat credentials.log
 [EDU]     B.S. Computer Science
 [CERT]    CompTIA Security+
 [UPTIME]  Always learning. Always shipping.
@@ -183,8 +168,7 @@ root@slymp3:~$ cat interests.txt
 ## `$ ps aux | grep currently`
 
 ```
-🔴 🟡 🟢  slymp3@root: ~/status
-──────────────────────────────────────────────────────────────
+root@slymp3:~$ ps aux | grep currently
 PID   USER     STATUS         COMMAND
 001   slymp3   building       AI agent frameworks & autonomous tool-use pipelines
 002   slymp3   training       ML models for real-world product applications
@@ -256,8 +240,7 @@ snake that eats your contribution graph, committed to an `output` branch. Then d
 ## `$ cat manifesto.txt`
 
 ```
-🔴 🟡 🟢  slymp3@root: ~/manifesto
-──────────────────────────────────────────────────────────
+root@slymp3:~$ cat manifesto.txt
   ╭──────────────────────────────────────────────────────╮
   │  Code is speech. Speech is free. Software is cheap.   │
   │  Open-source the world.                                │
