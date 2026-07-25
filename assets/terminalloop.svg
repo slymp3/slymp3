@@ -1,0 +1,162 @@
+<svg viewBox="0 0 900 554" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="15%" cy="90%" r="65%">
+      <stop offset="0%" stop-color="#39FF14" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#39FF14" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="90%" cy="10%" r="55%">
+      <stop offset="0%" stop-color="#00F5FF" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#00F5FF" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="winClip"><rect x="150" y="100" width="600" height="394" rx="12"/></clipPath>
+    <clipPath id="contentClip"><rect x="164" y="144" width="572" height="344"/></clipPath>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="18" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+    <clipPath id="c0"><rect x="204" y="146" width="0" height="22"><animate attributeName="width" begin="clock.begin+1.300s;clock.repeatEvent+1.300s" dur="0.348s" from="0" to="54" fill="freeze"/></rect></clipPath>
+    <clipPath id="c1"><rect x="204" y="198" width="0" height="22"><animate attributeName="width" begin="clock.begin+3.568s;clock.repeatEvent+3.568s" dur="0.696s" from="0" to="108" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="204" y="302" width="0" height="22"><animate attributeName="width" begin="clock.begin+7.184s;clock.repeatEvent+7.184s" dur="0.870s" from="0" to="135" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="204" y="380" width="0" height="22"><animate attributeName="width" begin="clock.begin+9.774s;clock.repeatEvent+9.774s" dur="0.986s" from="0" to="153" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="204" y="510" width="0" height="22"><animate attributeName="width" begin="clock.begin+13.180s;clock.repeatEvent+13.180s" dur="0.580s" from="0" to="90" fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="204" y="562" width="0" height="22"><animate attributeName="width" begin="clock.begin+15.480s;clock.repeatEvent+15.480s" dur="0.870s" from="0" to="135" fill="freeze"/><animate attributeName="width" begin="clock.begin+16.670s;clock.repeatEvent+16.670s" dur="0.315s" from="135" to="72" fill="freeze"/></rect></clipPath>
+    <clipPath id="c6"><rect x="276" y="562" width="0" height="22"><animate attributeName="width" begin="clock.begin+17.145s;clock.repeatEvent+17.145s" dur="0.464s" from="0" to="72" fill="freeze"/></rect></clipPath>
+    <clipPath id="c7"><rect x="204" y="614" width="0" height="22"><animate attributeName="width" begin="clock.begin+19.029s;clock.repeatEvent+19.029s" dur="1.160s" from="0" to="180" fill="freeze"/></rect></clipPath>
+    <clipPath id="c8"><rect x="204" y="666" width="0" height="22"><animate attributeName="width" begin="clock.begin+22.009s;clock.repeatEvent+22.009s" dur="1.160s" from="0" to="180" fill="freeze"/></rect></clipPath>
+    <clipPath id="c9"><rect x="204" y="744" width="0" height="22"><animate attributeName="width" begin="clock.begin+24.789s;clock.repeatEvent+24.789s" dur="1.044s" from="0" to="162" fill="freeze"/></rect></clipPath>
+    <clipPath id="c10"><rect x="204" y="796" width="0" height="22"><animate attributeName="width" begin="clock.begin+28.153s;clock.repeatEvent+28.153s" dur="1.102s" from="0" to="171" fill="freeze"/></rect></clipPath>
+    <clipPath id="c11"><rect x="204" y="874" width="0" height="22"><animate attributeName="width" begin="clock.begin+31.275s;clock.repeatEvent+31.275s" dur="1.334s" from="0" to="207" fill="freeze"/><animate attributeName="width" begin="clock.begin+32.929s;clock.repeatEvent+32.929s" dur="0.540s" from="207" to="99" fill="freeze"/></rect></clipPath>
+    <clipPath id="c12"><rect x="303" y="874" width="0" height="22"><animate attributeName="width" begin="clock.begin+33.629s;clock.repeatEvent+33.629s" dur="0.696s" from="0" to="108" fill="freeze"/></rect></clipPath>
+    <clipPath id="c13"><rect x="204" y="1004" width="0" height="22"><animate attributeName="width" begin="clock.begin+36.645s;clock.repeatEvent+36.645s" dur="0.928s" from="0" to="144" fill="freeze"/></rect></clipPath>
+    <clipPath id="c14"><rect x="204" y="1082" width="0" height="22"><animate attributeName="width" begin="clock.begin+41.193s;clock.repeatEvent+41.193s" dur="0.986s" from="0" to="153" fill="freeze"/></rect></clipPath>
+    <clipPath id="c15"><rect x="204" y="1160" width="0" height="22"><animate attributeName="width" begin="clock.begin+44.499s;clock.repeatEvent+44.499s" dur="0.870s" from="0" to="135" fill="freeze"/></rect></clipPath>
+    <clipPath id="c16"><rect x="204" y="1212" width="0" height="22"><animate attributeName="width" begin="clock.begin+48.289s;clock.repeatEvent+48.289s" dur="0.290s" from="0" to="45" fill="freeze"/></rect></clipPath>
+  </defs>
+  <rect x="0" y="0" width="900" height="554" fill="#080808"/>
+  <rect x="0" y="0" width="900" height="554" fill="url(#grid)"/>
+  <rect x="0" y="0" width="900" height="554" fill="url(#glow)"/>
+  <rect x="0" y="0" width="900" height="554" fill="url(#glow2)"/>
+  <rect x="0" y="0" width="1" height="1" opacity="0">
+    <animate id="clock" attributeName="width" from="1" to="1" dur="49.159s" repeatCount="indefinite"/>
+  </rect>
+  <g filter="url(#softShadow)">
+    <rect x="150" y="100" width="600" height="394" rx="12" fill="#0d0d0f" stroke="#242424" stroke-width="1"/>
+    <g clip-path="url(#winClip)"><rect x="150" y="100" width="600" height="38" fill="#111114"/></g>
+    <line x1="150" y1="138" x2="750" y2="138" stroke="#1f1f1f" stroke-width="1"/>
+    <circle cx="180" cy="119" r="6" fill="#FF5F56"/>
+    <circle cx="204" cy="119" r="6" fill="#FFBD2E"/>
+    <circle cx="228" cy="119" r="6" fill="#27C93F"/>
+    <text x="450" y="124" fill="#7a7a7a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" text-anchor="middle">slymp3@github ~ /profile</text>
+    <g clip-path="url(#contentClip)">
+      <g>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+11.280s;clock.repeatEvent+11.280s" dur="0.2s" from="0 0" to="0 -26" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+13.180s;clock.repeatEvent+13.180s" dur="0.2s" from="0 -26" to="0 -52" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+13.980s;clock.repeatEvent+13.980s" dur="0.2s" from="0 -52" to="0 -78" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+15.480s;clock.repeatEvent+15.480s" dur="0.2s" from="0 -78" to="0 -104" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+17.829s;clock.repeatEvent+17.829s" dur="0.2s" from="0 -104" to="0 -130" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+19.029s;clock.repeatEvent+19.029s" dur="0.2s" from="0 -130" to="0 -156" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+20.409s;clock.repeatEvent+20.409s" dur="0.2s" from="0 -156" to="0 -182" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+22.009s;clock.repeatEvent+22.009s" dur="0.2s" from="0 -182" to="0 -208" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+23.389s;clock.repeatEvent+23.389s" dur="0.2s" from="0 -208" to="0 -234" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+23.489s;clock.repeatEvent+23.489s" dur="0.2s" from="0 -234" to="0 -260" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+24.789s;clock.repeatEvent+24.789s" dur="0.2s" from="0 -260" to="0 -286" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+26.053s;clock.repeatEvent+26.053s" dur="0.2s" from="0 -286" to="0 -312" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+28.153s;clock.repeatEvent+28.153s" dur="0.2s" from="0 -312" to="0 -338" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+29.475s;clock.repeatEvent+29.475s" dur="0.2s" from="0 -338" to="0 -364" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+29.575s;clock.repeatEvent+29.575s" dur="0.2s" from="0 -364" to="0 -390" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+31.275s;clock.repeatEvent+31.275s" dur="0.2s" from="0 -390" to="0 -416" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+34.545s;clock.repeatEvent+34.545s" dur="0.2s" from="0 -416" to="0 -442" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+34.645s;clock.repeatEvent+34.645s" dur="0.2s" from="0 -442" to="0 -468" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+34.745s;clock.repeatEvent+34.745s" dur="0.2s" from="0 -468" to="0 -494" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+34.845s;clock.repeatEvent+34.845s" dur="0.2s" from="0 -494" to="0 -520" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+36.645s;clock.repeatEvent+36.645s" dur="0.2s" from="0 -520" to="0 -546" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+37.793s;clock.repeatEvent+37.793s" dur="0.2s" from="0 -546" to="0 -572" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+37.893s;clock.repeatEvent+37.893s" dur="0.2s" from="0 -572" to="0 -598" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+41.193s;clock.repeatEvent+41.193s" dur="0.2s" from="0 -598" to="0 -624" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+42.399s;clock.repeatEvent+42.399s" dur="0.2s" from="0 -624" to="0 -650" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+42.499s;clock.repeatEvent+42.499s" dur="0.2s" from="0 -650" to="0 -676" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+44.499s;clock.repeatEvent+44.499s" dur="0.2s" from="0 -676" to="0 -702" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+45.589s;clock.repeatEvent+45.589s" dur="0.2s" from="0 -702" to="0 -728" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+48.289s;clock.repeatEvent+48.289s" dur="0.2s" from="0 -728" to="0 -754" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML" type="translate" begin="clock.begin+48.759s;clock.repeatEvent+48.759s" dur="0.01s" from="0 -754" to="0 0" fill="freeze"/>
+        <rect x="180" y="150" width="9" height="17" fill="#39FF14" opacity="0"><animate attributeName="opacity" values="0;1;0;1;0;1;0" keyTimes="0;0.166;0.333;0.5;0.666;0.833;1" begin="clock.begin+0.300s;clock.repeatEvent+0.300s" dur="1.000s" fill="remove"/></rect>
+        <text x="180" y="164" fill="#39FF14" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">&gt;<animate attributeName="opacity" begin="clock.begin+1.300s;clock.repeatEvent+1.300s" dur="0.01s" from="0" to="1" fill="freeze"/></text>
+        <text x="204" y="164" fill="#e6e6e6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" clip-path="url(#c0)">whoami</text>
+        <text x="180" y="190" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">jake (slymp3)<animate attributeName="opacity" begin="clock.begin+1.868s;clock.repeatEvent+1.868s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <rect x="180" y="202" width="9" height="17" fill="#39FF14" opacity="0"><animate attributeName="opacity" values="0;1;0;1;0;1;0" keyTimes="0;0.166;0.333;0.5;0.666;0.833;1" begin="clock.begin+1.968s;clock.repeatEvent+1.968s" dur="1.600s" fill="remove"/></rect>
+        <text x="180" y="216" fill="#39FF14" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">&gt;<animate attributeName="opacity" begin="clock.begin+3.568s;clock.repeatEvent+3.568s" dur="0.01s" from="0" to="1" fill="freeze"/></text>
+        <text x="204" y="216" fill="#e6e6e6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" clip-path="url(#c1)">cat role.txt</text>
+        <text x="180" y="242" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">Machine Learning Engineer<animate attributeName="opacity" begin="clock.begin+4.484s;clock.repeatEvent+4.484s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <text x="180" y="268" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">Software / Web / App Developer<animate attributeName="opacity" begin="clock.begin+4.584s;clock.repeatEvent+4.584s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <text x="180" y="294" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">AI Agents &amp; Product Designer<animate attributeName="opacity" begin="clock.begin+4.684s;clock.repeatEvent+4.684s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <rect x="180" y="306" width="9" height="17" fill="#39FF14" opacity="0"><animate attributeName="opacity" values="0;1;0;1;0;1;0" keyTimes="0;0.166;0.333;0.5;0.666;0.833;1" begin="clock.begin+4.784s;clock.repeatEvent+4.784s" dur="2.400s" fill="remove"/></rect>
+        <text x="180" y="320" fill="#39FF14" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">&gt;<animate attributeName="opacity" begin="clock.begin+7.184s;clock.repeatEvent+7.184s" dur="0.01s" from="0" to="1" fill="freeze"/></text>
+        <text x="204" y="320" fill="#e6e6e6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" clip-path="url(#c2)">cat mission.txt</text>
+        <text x="180" y="346" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">Designing &amp; shipping intelligent systems that solve<animate attributeName="opacity" begin="clock.begin+8.274s;clock.repeatEvent+8.274s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <text x="180" y="372" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">real problems at scale — models to production apps.<animate attributeName="opacity" begin="clock.begin+8.374s;clock.repeatEvent+8.374s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <rect x="180" y="384" width="9" height="17" fill="#39FF14" opacity="0"><animate attributeName="opacity" values="0;1;0;1;0;1;0" keyTimes="0;0.166;0.333;0.5;0.666;0.833;1" begin="clock.begin+8.474s;clock.repeatEvent+8.474s" dur="1.300s" fill="remove"/></rect>
+        <text x="180" y="398" fill="#39FF14" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">&gt;<animate attributeName="opacity" begin="clock.begin+9.774s;clock.repeatEvent+9.774s" dur="0.01s" from="0" to="1" fill="freeze"/></text>
+        <text x="204" y="398" fill="#e6e6e6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" clip-path="url(#c3)">cat interests.txt</text>
+        <text x="180" y="424" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">AI &amp; Machine Learning<animate attributeName="opacity" begin="clock.begin+10.980s;clock.repeatEvent+10.980s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <text x="180" y="450" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">Decentralized Systems &amp; Digital Asset Infrastructure<animate attributeName="opacity" begin="clock.begin+11.080s;clock.repeatEvent+11.080s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <text x="180" y="476" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">Web &amp; Mobile App Development<animate attributeName="opacity" begin="clock.begin+11.180s;clock.repeatEvent+11.180s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <text x="180" y="502" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">Product Design &amp; clean code<animate attributeName="opacity" begin="clock.begin+11.280s;clock.repeatEvent+11.280s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <rect x="180" y="514" width="9" height="17" fill="#39FF14" opacity="0"><animate attributeName="opacity" values="0;1;0;1;0;1;0" keyTimes="0;0.166;0.333;0.5;0.666;0.833;1" begin="clock.begin+11.380s;clock.repeatEvent+11.380s" dur="1.800s" fill="remove"/></rect>
+        <text x="180" y="528" fill="#39FF14" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">&gt;<animate attributeName="opacity" begin="clock.begin+13.180s;clock.repeatEvent+13.180s" dur="0.01s" from="0" to="1" fill="freeze"/></text>
+        <text x="204" y="528" fill="#e6e6e6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" clip-path="url(#c4)">ls skills/</text>
+        <text x="180" y="554" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">ai_ml   languages   dev_stack   tooling<animate attributeName="opacity" begin="clock.begin+13.980s;clock.repeatEvent+13.980s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <rect x="180" y="566" width="9" height="17" fill="#39FF14" opacity="0"><animate attributeName="opacity" values="0;1;0;1;0;1;0" keyTimes="0;0.166;0.333;0.5;0.666;0.833;1" begin="clock.begin+14.080s;clock.repeatEvent+14.080s" dur="1.400s" fill="remove"/></rect>
+        <text x="180" y="580" fill="#39FF14" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">&gt;<animate attributeName="opacity" begin="clock.begin+15.480s;clock.repeatEvent+15.480s" dur="0.01s" from="0" to="1" fill="freeze"/></text>
+        <text x="204" y="580" fill="#e6e6e6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" clip-path="url(#c5)">cat skils/ai_ml</text>
+        <text x="276" y="580" fill="#e6e6e6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" clip-path="url(#c6)">ls/ai_ml</text>
+        <text x="180" y="606" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">ML, Deep Learning, LLMs, AI Agents, CV, NLP<animate attributeName="opacity" begin="clock.begin+17.829s;clock.repeatEvent+17.829s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <rect x="180" y="618" width="9" height="17" fill="#39FF14" opacity="0"><animate attributeName="opacity" values="0;1;0;1;0;1;0" keyTimes="0;0.166;0.333;0.5;0.666;0.833;1" begin="clock.begin+17.929s;clock.repeatEvent+17.929s" dur="1.100s" fill="remove"/></rect>
+        <text x="180" y="632" fill="#39FF14" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">&gt;<animate attributeName="opacity" begin="clock.begin+19.029s;clock.repeatEvent+19.029s" dur="0.01s" from="0" to="1" fill="freeze"/></text>
+        <text x="204" y="632" fill="#e6e6e6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" clip-path="url(#c7)">cat skills/languages</text>
+        <text x="180" y="658" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">Python, TypeScript, JavaScript, CSS, SQL<animate attributeName="opacity" begin="clock.begin+20.409s;clock.repeatEvent+20.409s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <rect x="180" y="670" width="9" height="17" fill="#39FF14" opacity="0"><animate attributeName="opacity" values="0;1;0;1;0;1;0" keyTimes="0;0.166;0.333;0.5;0.666;0.833;1" begin="clock.begin+20.509s;clock.repeatEvent+20.509s" dur="1.500s" fill="remove"/></rect>
+        <text x="180" y="684" fill="#39FF14" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">&gt;<animate attributeName="opacity" begin="clock.begin+22.009s;clock.repeatEvent+22.009s" dur="0.01s" from="0" to="1" fill="freeze"/></text>
+        <text x="204" y="684" fill="#e6e6e6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" clip-path="url(#c8)">cat skills/dev_stack</text>
+        <text x="180" y="710" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">Full-Stack Web, iOS/Mobile, SaaS Architecture,<animate attributeName="opacity" begin="clock.begin+23.389s;clock.repeatEvent+23.389s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <text x="180" y="736" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">Decentralized Systems, AI-integrated APIs<animate attributeName="opacity" begin="clock.begin+23.489s;clock.repeatEvent+23.489s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <rect x="180" y="748" width="9" height="17" fill="#39FF14" opacity="0"><animate attributeName="opacity" values="0;1;0;1;0;1;0" keyTimes="0;0.166;0.333;0.5;0.666;0.833;1" begin="clock.begin+23.589s;clock.repeatEvent+23.589s" dur="1.200s" fill="remove"/></rect>
+        <text x="180" y="762" fill="#39FF14" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">&gt;<animate attributeName="opacity" begin="clock.begin+24.789s;clock.repeatEvent+24.789s" dur="0.01s" from="0" to="1" fill="freeze"/></text>
+        <text x="204" y="762" fill="#e6e6e6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" clip-path="url(#c9)">cat skills/tooling</text>
+        <text x="180" y="788" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">Git, Docker, CI/CD, AWS/GCP, Vector DBs, MLOps<animate attributeName="opacity" begin="clock.begin+26.053s;clock.repeatEvent+26.053s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <rect x="180" y="800" width="9" height="17" fill="#39FF14" opacity="0"><animate attributeName="opacity" values="0;1;0;1;0;1;0" keyTimes="0;0.166;0.333;0.5;0.666;0.833;1" begin="clock.begin+26.153s;clock.repeatEvent+26.153s" dur="2.000s" fill="remove"/></rect>
+        <text x="180" y="814" fill="#39FF14" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">&gt;<animate attributeName="opacity" begin="clock.begin+28.153s;clock.repeatEvent+28.153s" dur="0.01s" from="0" to="1" fill="freeze"/></text>
+        <text x="204" y="814" fill="#e6e6e6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" clip-path="url(#c10)">cat credentials.log</text>
+        <text x="180" y="840" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">B.S. Computer Science<animate attributeName="opacity" begin="clock.begin+29.475s;clock.repeatEvent+29.475s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <text x="180" y="866" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">CompTIA Security+<animate attributeName="opacity" begin="clock.begin+29.575s;clock.repeatEvent+29.575s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <rect x="180" y="878" width="9" height="17" fill="#39FF14" opacity="0"><animate attributeName="opacity" values="0;1;0;1;0;1;0" keyTimes="0;0.166;0.333;0.5;0.666;0.833;1" begin="clock.begin+29.675s;clock.repeatEvent+29.675s" dur="1.600s" fill="remove"/></rect>
+        <text x="180" y="892" fill="#39FF14" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">&gt;<animate attributeName="opacity" begin="clock.begin+31.275s;clock.repeatEvent+31.275s" dur="0.01s" from="0" to="1" fill="freeze"/></text>
+        <text x="204" y="892" fill="#e6e6e6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" clip-path="url(#c11)">ps aux | grpe currently</text>
+        <text x="303" y="892" fill="#e6e6e6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" clip-path="url(#c12)">ep currently</text>
+        <text x="180" y="918" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">building AI agent frameworks<animate attributeName="opacity" begin="clock.begin+34.545s;clock.repeatEvent+34.545s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <text x="180" y="944" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">training ML models for real products<animate attributeName="opacity" begin="clock.begin+34.645s;clock.repeatEvent+34.645s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <text x="180" y="970" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">shipping full-stack web &amp; mobile apps<animate attributeName="opacity" begin="clock.begin+34.745s;clock.repeatEvent+34.745s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <text x="180" y="996" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">architecting decentralized systems<animate attributeName="opacity" begin="clock.begin+34.845s;clock.repeatEvent+34.845s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <rect x="180" y="1008" width="9" height="17" fill="#39FF14" opacity="0"><animate attributeName="opacity" values="0;1;0;1;0;1;0" keyTimes="0;0.166;0.333;0.5;0.666;0.833;1" begin="clock.begin+34.945s;clock.repeatEvent+34.945s" dur="1.700s" fill="remove"/></rect>
+        <text x="180" y="1022" fill="#39FF14" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">&gt;<animate attributeName="opacity" begin="clock.begin+36.645s;clock.repeatEvent+36.645s" dur="0.01s" from="0" to="1" fill="freeze"/></text>
+        <text x="204" y="1022" fill="#e6e6e6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" clip-path="url(#c13)">cat featured.txt</text>
+        <text x="180" y="1048" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">github.com/slymp3/slymp3<animate attributeName="opacity" begin="clock.begin+37.793s;clock.repeatEvent+37.793s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <text x="180" y="1074" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">&gt; Solving real-world problems with code.<animate attributeName="opacity" begin="clock.begin+37.893s;clock.repeatEvent+37.893s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <rect x="180" y="1086" width="9" height="17" fill="#39FF14" opacity="0"><animate attributeName="opacity" values="0;1;0;1;0;1;0" keyTimes="0;0.166;0.333;0.5;0.666;0.833;1" begin="clock.begin+37.993s;clock.repeatEvent+37.993s" dur="3.200s" fill="remove"/></rect>
+        <text x="180" y="1100" fill="#39FF14" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">&gt;<animate attributeName="opacity" begin="clock.begin+41.193s;clock.repeatEvent+41.193s" dur="0.01s" from="0" to="1" fill="freeze"/></text>
+        <text x="204" y="1100" fill="#e6e6e6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" clip-path="url(#c14)">cat manifesto.txt</text>
+        <text x="180" y="1126" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">Code is speech. Open-source the world.<animate attributeName="opacity" begin="clock.begin+42.399s;clock.repeatEvent+42.399s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <text x="180" y="1152" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">“Rough consensus and running code.” — D. Clark, 1992<animate attributeName="opacity" begin="clock.begin+42.499s;clock.repeatEvent+42.499s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <rect x="180" y="1164" width="9" height="17" fill="#39FF14" opacity="0"><animate attributeName="opacity" values="0;1;0;1;0;1;0" keyTimes="0;0.166;0.333;0.5;0.666;0.833;1" begin="clock.begin+42.599s;clock.repeatEvent+42.599s" dur="1.900s" fill="remove"/></rect>
+        <text x="180" y="1178" fill="#39FF14" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">&gt;<animate attributeName="opacity" begin="clock.begin+44.499s;clock.repeatEvent+44.499s" dur="0.01s" from="0" to="1" fill="freeze"/></text>
+        <text x="204" y="1178" fill="#e6e6e6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" clip-path="url(#c15)">cat contact.txt</text>
+        <text x="180" y="1204" fill="#9a9a9a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">linkedin + github -&gt; slymp3.com<animate attributeName="opacity" begin="clock.begin+45.589s;clock.repeatEvent+45.589s" dur="0.14s" from="0" to="1" fill="freeze"/></text>
+        <rect x="180" y="1216" width="9" height="17" fill="#39FF14" opacity="0"><animate attributeName="opacity" values="0;1;0;1;0;1;0" keyTimes="0;0.166;0.333;0.5;0.666;0.833;1" begin="clock.begin+45.689s;clock.repeatEvent+45.689s" dur="2.600s" fill="remove"/></rect>
+        <text x="180" y="1230" fill="#39FF14" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" opacity="0">&gt;<animate attributeName="opacity" begin="clock.begin+48.289s;clock.repeatEvent+48.289s" dur="0.01s" from="0" to="1" fill="freeze"/></text>
+        <text x="204" y="1230" fill="#e6e6e6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" clip-path="url(#c16)">clear</text>
+        <rect x="164" y="144" width="572" height="344" fill="#0d0d0f" opacity="0"><animate attributeName="opacity" begin="clock.begin+48.759s;clock.repeatEvent+48.759s" dur="0.08s" from="0" to="1" fill="freeze"/><animate attributeName="opacity" begin="clock.begin+48.849s;clock.repeatEvent+48.849s" dur="0.01s" from="1" to="0" fill="freeze"/></rect>
+      </g>
+    </g>
+  </g>
+</svg>
