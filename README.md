@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img width="720" src="./assets/terminal-hero.svg" alt="terminal auth sequence"/>
+<img width="720" src="./assets/terminal-live.svg" alt="live auto-typing terminal session"/>
 
 </div>
 
