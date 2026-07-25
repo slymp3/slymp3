@@ -13,7 +13,7 @@
 ```
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=650&lines=root%40slymp3%3A~%24+whoami;Jake+%E2%80%94+aka+slymp3;Machine+Learning+%2F+Software+Engineer;Building+AI+agents+%26+intelligent+products;root%40slymp3%3A~%24+_" alt="typing terminal"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=650&lines=root%40slymp3%3A~%24+whoami;Jake+%E2%80%94+user:slymp3;Machine+Learning+%2F+Software+Engineer;Building+the+future+line+by+line.;root%40slymp3%3A~%24+_" alt="typing terminal"/>
 </a>
 
 </div>
